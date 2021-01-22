@@ -1,1 +1,1 @@
-# -Structuring_Machine_Learning_Projects
+# Structuring Machine Learning Projects
